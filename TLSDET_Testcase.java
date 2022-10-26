@@ -23,7 +23,7 @@ import org.testng.annotations.Test;
 
 import seleniumactions.SeleniumActions;
 
-public class TLSDET_Testcase extends SeleniumActions {
+public class SalesForce_Testcase extends SeleniumActions {
 	
 	long snapNum = (long) (Math.floor(Math.random() * 90000000L) + 10000000L);
 //js.executeScript("window.scrollBy(0,window.innerHeight)", "");
